@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://audio-loop-point-tester.cnwkf73.workers.dev/sitemap.xml
